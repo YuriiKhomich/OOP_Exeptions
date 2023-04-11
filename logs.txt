@@ -9,4 +9,4 @@
   File "D:\Python\HW_OOP_Exeption\employee.py", line 33, in validate
     raise EmailAlreadyExistsException(f"Email '{self.email}' already exists.")
 employee.EmailAlreadyExistsException: Email 'John@gmail.com' already exists.
-
+text
